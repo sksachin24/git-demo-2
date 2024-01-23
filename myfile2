@@ -1,0 +1,10 @@
+11  cd mumbaigit/
+   12  ls
+   13  git init
+   14  cd .git/
+   15  ls
+   16  cd ..
+   17  cat > myfile
+   18  git status
+   19  git add myfile
+   20  git statu
